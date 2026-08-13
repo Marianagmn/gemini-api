@@ -19,8 +19,9 @@ pip install requests
 Para actualizarlas usa:
 python.exe -m pip install --upgrade pip
 
-6. Presiona "run and debug", click derecho run o tu método preferido para inicializar el código
+6. Presiona "run and debug", click derecho "run" o tu método preferido para inicializar el código en prueba_entorno.py
 
 Debe salir la siguiente respuesta:
 
-<img width="1178" height="977" alt="image" src="https://github.com/user-attachments/assets/422c2993-338f-46c2-901b-82729330c851" />
+<img width="1569" height="973" alt="image" src="https://github.com/user-attachments/assets/4c5725cb-a331-4481-944b-46b0ef1ed44e" />
+
